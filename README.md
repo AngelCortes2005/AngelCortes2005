@@ -12,38 +12,37 @@
 
 <br/>
 
-## 🌐 Sobre mí  
-Desarrollador full-stack y analista de sistemas orientado a crear plataformas web funcionales, modernas y seguras. Me especializo en arquitectura basada en roles, UX limpia y documentación técnica clara.
-
-Actualmente lidero el desarrollo de sistemas educativos y administrativos para instituciones, incorporando buenas prácticas, seguridad y diseño escalable.
+## 🌐 About Me  
+I am a full-stack developer and systems analyst focused on building clear, secure, and well-structured web solutions.  
+My goal is to deliver functional, scalable, and maintainable software—always prioritizing best practices and clean user experiences.
 
 ---
 
-## 🚀 Stack Tecnológico
+## ⚡Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,firebase,vercel,py,postgres,nodejs,figma,vscode" />
 </p>
 
-## 🧩 Filosofía Minimalista  
-> *Crear software claro, útil y entendible. Sin ruido. Sin complejidad innecesaria.*
+## 🧩 Minimalist Philosophy  
+> *Build software that is clear, useful, and easy to understand. No noise. No unnecessary complexity.*
 
-- Arquitecturas limpias  
-- Experiencias simples  
-- Documentación precisa  
-- Seguridad primero  
-- Optimización constante  
+- Clean architectures  
+- Simple user experiences  
+- Precise documentation  
+- Security first  
+- Continuous optimization  
 
 ---
 
-## 📫 Contacto
+## 📫 Contact
 
 <p align="center">
-  <a href="mailto:angelcortes.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contactar-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:cortts.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<p align="center">✨ Explora mis repositorios para ver más de mi trabajo ✨</p>
+<p align="center">✨ Explore my repositories to see more of my work ✨</p>
