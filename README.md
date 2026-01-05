@@ -15,7 +15,7 @@
 <br/>
 
 ## 🌱 About Me  
-I am a full-stack developer and systems analyst focused on building clear, secure, and well-structured web solutions.  
+I am a software developer and systems analyst focused on building clear, secure, and well-structured web solutions.  
 My goal is to deliver functional, scalable, and maintainable software—always prioritizing best practices and clean user experiences.
 
 ## ⚡Tech Stack
